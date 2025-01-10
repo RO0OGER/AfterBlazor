@@ -1,0 +1,28 @@
+﻿<header class="header">
+    <button class="burger-menu" @onclick="ToggleMenu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+    <img src="" alt="Logo" class="logo" />
+</header>
+
+<div class="menu" style="@MenuStyle">
+    <ul>
+        <li><NavLink class="nav-link" href="/" Match="NavLinkMatch.All"><span>Home</span></NavLink></li>
+        <li><NavLink class="nav-link" href="/About" Match="NavLinkMatch.All"><span>About</span></NavLink></li>
+        <li><NavLink class="nav-link" href="/Rechtliches" Match="NavLinkMatch.All"><span>Rechtliches</span></NavLink></li>
+        <li><NavLink class="nav-link" href="/Kontakt" Match="NavLinkMatch.All"><span>Kontakt</span></NavLink></li>
+    </ul>
+</div>
+
+@code {
+    private bool IsMenuOpen = false;
+
+    private void ToggleMenu()
+    {
+        IsMenuOpen = !IsMenuOpen;
+    }
+
+    private string MenuStyle => IsMenuOpen ? "display: block;" : "display: none;";
+}

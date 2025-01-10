@@ -1,0 +1,59 @@
+﻿@page "/"
+@using Microsoft.Extensions.Logging
+@inject Supabase.Client SupabaseClient
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JsRuntime
+@inject ILogger<Home> BuBULogger
+
+<h1>All Posts</h1>
+
+@if (posts == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <ul>
+        @foreach (var post in posts)
+        {
+            <a @onclick="() => ViewPost(post.Id)">
+            <li>
+                <p>@post.Title</p>
+                <p>@post.Text</p>
+                <img src="@($"/Resources/Images/{post.Img}")" alt="Post Image" />
+
+            </li>
+            </a>
+        }
+    </ul>
+}
+
+<button><a href="/newpost">Create a New Post</a></button>
+
+@code {
+    private List<Post> posts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            // Fetch all posts from the Supabase database
+            var response = await SupabaseClient.From<Post>().Get();
+            posts = response.Models;
+
+            foreach (var post in response.Models)
+            {
+                BuBULogger.LogInformation($"Post Title: {post.Title}");
+            }
+        }
+        catch (Exception ex)
+        {
+            BuBULogger.LogError($"Error loading posts: {ex.Message}");
+        }
+    }
+
+    private void ViewPost(int id)
+    {
+        NavigationManager.NavigateTo($"/post/{id}");
+    }
+}

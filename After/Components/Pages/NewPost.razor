@@ -1,0 +1,61 @@
+﻿@page "/newpost"
+@inject Supabase.Client SupabaseClient
+@inject NavigationManager NavigationManager
+
+
+<h1>Create New Post</h1>
+
+<div>
+    <label>Title:</label>
+    <input type="text" @bind="post.Title" placeholder="Enter title" />
+
+    <label>Text:</label>
+    <textarea @bind="post.Text" placeholder="Enter text"></textarea>
+
+    <label>Image URL:</label>
+    <input type="text" @bind="post.Img" placeholder="Enter image URL" />
+
+    <button @onclick="CreatePost">Create Post</button>
+</div>
+
+@if (!string.IsNullOrEmpty(message))
+{
+    <p>@message</p>
+}
+
+@code {
+    private Post post = new();
+    private string message;
+
+    private async Task CreatePost()
+    {
+        try
+        {
+            // Validate input
+            if (string.IsNullOrWhiteSpace(post.Title) || string.IsNullOrWhiteSpace(post.Text))
+            {
+                message = "Title and text are required.";
+                return;
+            }
+            post.Id = 3;
+            post.Date = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ");
+
+            
+            var response = await SupabaseClient.From<Post>().Insert(post);
+
+            if (response.Models.Any())
+            {
+                message = "Post created successfully!";
+                NavigationManager.NavigateTo("/");
+            }
+            else
+            {
+                message = "Failed to create post.";
+            }
+        }
+        catch (Exception ex)
+        {
+            message = $"Error: {ex.Message}";
+        }
+    }
+}

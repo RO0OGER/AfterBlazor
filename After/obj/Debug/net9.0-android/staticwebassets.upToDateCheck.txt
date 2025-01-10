@@ -1,0 +1,9 @@
+C:\Users\ro_wi\source\repos\After\After\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\ro_wi\source\repos\After\After\wwwroot\index.html
+C:\Users\ro_wi\source\repos\After\After\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\ro_wi\source\repos\After\After\wwwroot\css\app.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+wwwroot\Resources\Images\post1.jpg

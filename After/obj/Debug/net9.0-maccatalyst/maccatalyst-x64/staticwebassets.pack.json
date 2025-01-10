@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\After.styles.css",
+      "PackagePath": "staticwebassets\\After.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\Resources\\Images\\post1.jpg",
+      "PackagePath": "staticwebassets\\Resources\\Images\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.After.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.After.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.After.props",
+      "PackagePath": "build\\After.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.After.props",
+      "PackagePath": "buildMultiTargeting\\After.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.After.props",
+      "PackagePath": "buildTransitive\\After.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
