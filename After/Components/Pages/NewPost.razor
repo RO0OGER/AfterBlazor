@@ -1,7 +1,7 @@
 ﻿@page "/newpost"
 @inject Supabase.Client SupabaseClient
 @inject NavigationManager NavigationManager
-
+@using Newtonsoft.Json
 
 <h1>Create New Post</h1>
 
@@ -37,16 +37,21 @@
                 message = "Title and text are required.";
                 return;
             }
-            post.Id = 3;
-            post.Date = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ");
 
-            
+
+
+            // Serialize the post object using Newtonsoft.Json
+            string jsonPayload = JsonConvert.SerializeObject(post, Formatting.Indented);
+
+            Console.WriteLine($"JSON Payload being sent: {jsonPayload}");
+
+            // Insert the post into Supabase
             var response = await SupabaseClient.From<Post>().Insert(post);
 
-            if (response.Models.Any())
+            if (response.Models?.Any() == true)
             {
                 message = "Post created successfully!";
-                NavigationManager.NavigateTo("/");
+                NavigationManager.NavigateTo("/");  // Redirect to home page or another page after success
             }
             else
             {
@@ -55,7 +60,7 @@
         }
         catch (Exception ex)
         {
-            message = $"Error: {ex.Message}";
+            message = $"Error: {ex.Message} - {ex.StackTrace}";  // Detailed error information for debugging
         }
     }
 }

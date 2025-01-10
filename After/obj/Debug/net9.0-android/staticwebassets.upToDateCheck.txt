@@ -1,7 +1,7 @@
-C:\Users\ro_wi\source\repos\After\After\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\ro_wi\source\repos\After\After\wwwroot\index.html
-C:\Users\ro_wi\source\repos\After\After\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\ro_wi\source\repos\After\After\wwwroot\css\app.css
+C:\Users\ro_wi\source\repos\RO0OGER\AfterBlazor\After\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\ro_wi\source\repos\RO0OGER\AfterBlazor\After\wwwroot\index.html
+C:\Users\ro_wi\source\repos\RO0OGER\AfterBlazor\After\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\ro_wi\source\repos\RO0OGER\AfterBlazor\After\wwwroot\css\app.css
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map

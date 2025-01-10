@@ -41679,11 +41679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\After.csproj",
+      "projectUniqueName": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\After.csproj",
       "projectName": "After",
-      "projectPath": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\After.csproj",
+      "projectPath": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\After.csproj",
       "packagesPath": "C:\\Users\\ro_wi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\obj\\",
+      "outputPath": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

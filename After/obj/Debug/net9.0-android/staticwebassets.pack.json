@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
       "PackagePath": "staticwebassets\\After.styles.css"
     },
     {
-      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\Resources\\Images\\post1.jpg",
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
       "PackagePath": "staticwebassets\\Resources\\Images\\post1.jpg"
     },
     {
-      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ro_wi\\source\\repos\\After\\After\\wwwroot\\index.html",
+      "Id": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

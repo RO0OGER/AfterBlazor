@@ -1,22 +1,20 @@
-﻿using Supabase.Postgrest.Models;
-using System.Text.Json.Serialization;
+﻿using Newtonsoft.Json;
+using Supabase.Postgrest.Models;
 
 public class Post : BaseModel
 {
-    [JsonPropertyName("id")]
+    [JsonProperty("id")]
     public int Id { get; set; }
 
-    [JsonPropertyName("title")]
+    [JsonProperty("title")]
     public string Title { get; set; }
 
-    [JsonPropertyName("text")]
+    [JsonProperty("text")]
     public string Text { get; set; }
 
-    [JsonPropertyName("date")]
-    public string Date { get; set; }
+    [JsonProperty("date")]
+    public DateTime Date { get; set; }
 
-    [JsonPropertyName("img")]
+    [JsonProperty("img")]
     public string Img { get; set; }
-    
 }
-    
