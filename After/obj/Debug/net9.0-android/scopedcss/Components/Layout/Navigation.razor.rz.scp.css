@@ -1,0 +1,53 @@
+.navbar[b-c32zihxrdp] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    position: relative;
+    width: 100%;
+    padding-bottom: 28px;
+}
+
+.burger-icon[b-c32zihxrdp] {
+    position: absolute;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 16px;
+    width: 24px;
+    cursor: pointer;
+}
+
+.bar[b-c32zihxrdp] {
+    height: 3px;
+    background-color: #BAB1AB;
+    border-radius: 2px;
+    width: 100%;
+}
+
+.logo[b-c32zihxrdp] {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+}
+
+    .logo img[b-c32zihxrdp] {
+        height: 75px;
+        cursor: pointer;
+    }
+
+.user-icon[b-c32zihxrdp] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0 20px;
+}
+
+    .user-icon img[b-c32zihxrdp] {
+        margin-top: 20px;
+        height: 25px;
+    }

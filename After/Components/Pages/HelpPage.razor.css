@@ -1,0 +1,165 @@
+
+.help-page {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    animation: fadeIn 0.5s ease-in forwards;
+}
+
+
+.help-title {
+    color: #000000;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.faq-title,
+.contact-title {
+    color: #BAB1AB;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+
+.faq-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left; 
+    display: inline-block; 
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
+
+.faq-subtitle {
+    color: #BAB1AB;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.faq-text {
+    color: #000000;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.faq-link {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.contact-form {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.contact-label {
+    font-size: 1rem;
+    color: #BAB1AB;
+    align-self: flex-start;
+}
+
+.contact-input,
+.contact-textarea {
+    padding: 10px;
+    border: 1px solid #BAB1AB;
+    border-radius: 4px;
+    font-size: 1rem;
+    color: #000000;
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box;
+}
+
+.contact-textarea {
+    min-height: 100px;
+}
+
+.contact-button {
+    padding: 12px 15px;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-bottom: 100px;
+}
+
+    .contact-button:hover {
+        background-color: #BAB1AB;
+        color: #000000;
+    }
+
+.error-message {
+    color: red;
+    font-size: 0.9rem;
+    align-self: flex-start;
+}
+
+@media (max-width: 768px) {
+    .help-page {
+        padding: 15px;
+    }
+
+    .help-title {
+        font-size: 1.8rem;
+    }
+
+    .faq-title,
+    .contact-title {
+        font-size: 1.3rem;
+    }
+
+    .faq-text {
+        font-size: 0.95rem;
+    }
+
+    .contact-form {
+        gap: 10px;
+    }
+
+    .contact-textarea {
+        min-height: 80px;
+    }
+}
+
+@media (max-width: 480px) {
+    .help-page {
+        padding: 10px;
+    }
+
+    .help-title {
+        font-size: 1.5rem;
+    }
+
+    .faq-title,
+    .contact-title {
+        font-size: 1.2rem;
+    }
+
+    .faq-text {
+        font-size: 0.9rem;
+        line-height: 1.4;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

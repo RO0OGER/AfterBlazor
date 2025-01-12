@@ -3,17 +3,19 @@
 
 @page "/post/{id:int}"
 
-<h1>@post?.Title</h1>
+<div class="post-body">
+    <h1>@post?.Title</h1>
 
-@if (post == null)
-{
-    <p>Loading...</p>
-}
-else
-{
-	@post.Text
-    <img src="@($"/Resources/Images/{post.Img}")" alt="Post Image" />
-}
+    @if (post == null)
+    {
+            <p>Loading...</p>
+    }
+    else
+    {
+            <p>@post.Text</p>
+            <img src="@($"/Resources/Images/{post.Img}")" alt="Post Image" />
+    }
+</div>
 
 @code {
     [Parameter] public int id { get; set; }

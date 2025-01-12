@@ -1,0 +1,53 @@
+﻿@page "/bewertung"
+@inject NavigationManager Navigation
+
+<div class="bewertung-page">
+    <h3>Bewertung abgeben</h3>
+
+    <form>
+        <div class="form-group">
+            <label for="Purpose">Zweck</label>
+            <div>
+                <input type="radio" id="lesen" name="Purpose" /> Zum Lesen
+                <input type="radio" id="erstellen" name="Purpose" /> Zum Erstellen
+                <input type="radio" id="beides" name="Purpose" /> Beides
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="Rate">Bewertung (1 bis 5)</label>
+            <input type="range" id="Rate" name="Rate" min="1" max="5" step="1" @bind="currentRating" />
+            <div>Aktuelle Bewertung: @currentRating</div>
+        </div>
+
+        <div class="form-group">
+            <label for="AgeGroup">Altersgruppe</label>
+            <select id="AgeGroup" name="AgeGroup" @bind="ageGroup">
+                <option value="0-17">0 - 17</option>
+                <option value="18-26">18 - 26</option>
+                <option value="27-38">27 - 38</option>
+                <option value="39-65">39 - 65</option>
+                <option value="66+">66+</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="Joindate">Mitglied seit</label>
+            <input type="date" id="Joindate" name="Joindate" />
+        </div>
+
+        <button type="button" class="submit-button" @onclick="GoToHomePage">Submit</button>
+    </form>
+</div>
+
+@code {
+    private string purpose;
+    private int currentRating = 3;
+    private string ageGroup;
+
+    private void GoToHomePage()
+    {
+
+        Navigation.NavigateTo("/");
+    }
+}

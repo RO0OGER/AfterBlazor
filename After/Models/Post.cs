@@ -1,9 +1,10 @@
 ﻿using Newtonsoft.Json;
+using Supabase.Postgrest.Attributes;
 using Supabase.Postgrest.Models;
 
 public class Post : BaseModel
 {
-    [JsonProperty("id")]
+    [PrimaryKey("id")]
     public int Id { get; set; }
 
     [JsonProperty("title")]

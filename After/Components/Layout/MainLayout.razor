@@ -1,13 +1,39 @@
 ﻿@inherits LayoutComponentBase
 
+@inject NavigationManager NavigationManager
+
 <div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+    @* Conditionally render the navigation based on the current route *@
+    @if (ShouldShowNavigation())
+    {
+            <div class="navigation">
+                <Navigation />
+            </div>
+    }
 
     <main>
         <article class="content px-4">
             @Body
         </article>
     </main>
+
+    <div class="bottom-navigation">
+        <BottomNavigation />
+    </div>
 </div>
+
+@code {
+
+    private bool ShouldShowNavigation()
+    {
+        var currentUri = NavigationManager.Uri;
+
+
+        if (currentUri.Contains("navigationpage"))
+        {
+            return false; 
+        }
+
+        return true;  
+    }
+}

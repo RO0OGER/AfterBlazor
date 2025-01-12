@@ -1,0 +1,34 @@
+.navigation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin-top: 190px;
+    background-color: white;
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+p {
+    margin: 10px 0;
+    color: black;
+    font-size: 28px;
+}
+
+.navigation a {
+    text-decoration: none;
+}
+
+    .navigation a:hover p {
+        opacity: 0.7;
+    }

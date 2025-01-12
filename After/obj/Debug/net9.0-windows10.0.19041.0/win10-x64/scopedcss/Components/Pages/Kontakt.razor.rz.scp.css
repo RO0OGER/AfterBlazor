@@ -1,0 +1,85 @@
+.contact-page[b-0lel4eza85] {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    animation: fadeIn-b-0lel4eza85 0.5s ease-in forwards;
+}
+
+h1[b-0lel4eza85] {
+    font-size: 2em;
+    color: #BAB1AB;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-group[b-0lel4eza85] {
+    margin-bottom: 15px;
+}
+
+label[b-0lel4eza85] {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #BAB1AB;
+}
+
+.input-text[b-0lel4eza85], .form-control[b-0lel4eza85], .input-textarea[b-0lel4eza85] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 1rem;
+    border: 1px solid #BAB1AB;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+    .input-text:focus[b-0lel4eza85], .input-textarea:focus[b-0lel4eza85] {
+        outline: none;
+        border-color: #BAB1AB;
+    }
+
+button[b-0lel4eza85] {
+    background-color: #BAB1AB;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    width: 100%;
+    margin-top: 10px;
+}
+
+    button:hover[b-0lel4eza85] {
+        background-color: #A99A8F;
+    }
+
+input[type="checkbox"][b-0lel4eza85] {
+    margin-right: 10px;
+}
+
+@keyframes fadeIn-b-0lel4eza85 {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 600px) {
+    .contact-page[b-0lel4eza85] {
+        padding: 20px;
+    }
+
+    h1[b-0lel4eza85] {
+        font-size: 1.5em;
+    }
+}

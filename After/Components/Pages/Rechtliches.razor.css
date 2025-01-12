@@ -1,0 +1,38 @@
+.legal-page {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    animation: fadeIn 0.5s ease-in forwards;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+.impressum, .datenschutz {
+    margin-bottom: 20px;
+}
+
+    .datenschutz h3 {
+        margin-top: 10px;
+        font-size: 18px;
+        color: #555;
+    }
+
+    .datenschutz p {
+        line-height: 1.5;
+    }
+
+
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+    

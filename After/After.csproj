@@ -82,7 +82,12 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Content Include="wwwroot\Resources\Images\Add.png" />
+      <Content Include="wwwroot\Resources\Images\Home.png" />
+      <Content Include="wwwroot\Resources\Images\Logo.png" />
+      <Content Include="wwwroot\Resources\Images\logoabout.png" />
       <Content Include="wwwroot\Resources\Images\post1.jpg" />
+      <Content Include="wwwroot\Resources\Images\userIcon.png" />
     </ItemGroup>
 
     <ItemGroup>
@@ -97,6 +102,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Include="wwwroot\resources\images\logoabout.svg" />
       <None Include="wwwroot\Resources\Images\logoafter.png" />
     </ItemGroup>
 

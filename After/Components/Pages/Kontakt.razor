@@ -1,10 +1,57 @@
-﻿@page "/Kontakt"
+﻿@page "/contact"
 
+<div class="contact-page">
+    <h1>Kontakt</h1>
 
-<h3>Kontakt</h3>
+    <div>
+        <label for="showTextField">Möchten Sie uns eine Nachricht hinterlassen?</label>
+        <input type="checkbox" id="showTextField" @bind="showTextField" />
+    </div>
 
+    @if (showTextField)
+    {
+        <EditForm Model="@contactModel" OnValidSubmit="HandleValidSubmit">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="form-group">
+                <label for="Name">Name</label>
+                <InputText id="Name" class="form-control" @bind-Value="contactModel.Name" />
+                <ValidationMessage For="@(() => contactModel.Name)" />
+            </div>
+
+            <div class="form-group">
+                <label for="Email">E-Mail</label>
+                <InputText id="Email" class="form-control" @bind-Value="contactModel.Email" />
+                <ValidationMessage For="@(() => contactModel.Email)" />
+            </div>
+
+            <div class="form-group">
+                <label for="Message">Nachricht</label>
+                <InputTextArea id="Message" class="form-control" @bind-Value="contactModel.Message" />
+                <ValidationMessage For="@(() => contactModel.Message)" />
+            </div>
+
+            <button type="submit" class="btn btn-primary">Absenden</button>
+        </EditForm>
+    }
+</div>
 
 @code {
+    private bool showTextField = false;
 
+    private ContactModel contactModel = new ContactModel();
 
+    private void HandleValidSubmit()
+    {
+        //API anbindung ist noch nicht vorhanden.
+        Console.WriteLine($"Nachricht von {contactModel.Name}: {contactModel.Message}");
+    }
+
+    public class ContactModel
+    {
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string Message { get; set; }
+    }
 }

@@ -1,0 +1,48 @@
+﻿@page "/profil"
+@using Microsoft.Extensions.Logging
+@inject Supabase.Client SupabaseClient
+@inject NavigationManager NavigationManager
+
+
+<div class="user-page">
+    <h3>Benutzer Profil</h3>
+    <p><strong>Deine Beiträge</strong></p>
+
+    @if (posts == null)
+    {
+        <p class="loading">Loading posts...</p>
+    }
+    else
+    {
+        <ul class="site-body">
+            @foreach (var post in posts)
+            {
+                <a @onclick="() => ViewPost(post.Id)">
+                <li class="post">
+                        @if (!string.IsNullOrEmpty(post.Img))
+                        {
+                        <img src="/Resources/Images/@post.Img" alt="Post Image" class="post-image" />
+                        }
+                    <p class="post-title">@post.Title</p>
+                    <p class="post-text">@post.Text</p>
+                </li>
+                </a>
+            }
+        </ul>
+    }
+</div>
+
+@code {
+    private List<Post> posts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await SupabaseClient.From<Post>().Get();
+        posts = response.Models;
+    }
+
+    private void ViewPost(int id)
+    {
+        NavigationManager.NavigateTo($"/post/{id}");
+    }
+}

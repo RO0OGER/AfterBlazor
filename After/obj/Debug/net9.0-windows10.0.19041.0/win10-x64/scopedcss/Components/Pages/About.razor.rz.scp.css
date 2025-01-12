@@ -1,0 +1,33 @@
+.help-page[b-bejhg2pmim] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: fadeIn-b-bejhg2pmim 0.5s ease-in forwards;
+}
+
+.logo-about[b-bejhg2pmim] {
+    width: 90vw;
+    max-width: 500px;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.text-field[b-bejhg2pmim] {
+    margin-top: 10px; 
+    border-top:0.1px solid black;
+    padding-top: 10px;
+    margin-bottom: 100px;
+}
+
+@keyframes fadeIn-b-bejhg2pmim {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

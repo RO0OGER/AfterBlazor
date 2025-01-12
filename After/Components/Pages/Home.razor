@@ -5,22 +5,21 @@
 @inject IJSRuntime JsRuntime
 @inject ILogger<Home> BuBULogger
 
-<h1>All Posts</h1>
 
 @if (posts == null)
 {
-    <p>Loading...</p>
+    <p class="loading">Loading...</p>
 }
 else
 {
-    <ul>
+    <ul class="site-body">
         @foreach (var post in posts)
         {
             <a @onclick="() => ViewPost(post.Id)">
-            <li>
-                <p>@post.Title</p>
-                <p>@post.Text</p>
-                <img src="@($"/Resources/Images/{post.Img}")" alt="Post Image" />
+            <li class ="post">
+                <p class="post-title">@post.Title</p>
+                <p class ="post-text">@post.Text</p>
+                
 
             </li>
             </a>
@@ -28,7 +27,6 @@ else
     </ul>
 }
 
-<button><a href="/newpost">Create a New Post</a></button>
 
 @code {
     private List<Post> posts;
@@ -37,7 +35,7 @@ else
     {
         try
         {
-            // Fetch all posts from the Supabase database
+            
             var response = await SupabaseClient.From<Post>().Get();
             posts = response.Models;
 

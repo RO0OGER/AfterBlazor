@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DJ+8PIxNkoD+j7JyageSLFMLmJSKONPwJba2xCjT+3Q=",
+  "Hash": "/c/jvtn2s/MqBvCzebH/1CyLl+hANEp7GC4mt+vVBLA=",
   "Source": "After",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,38 +10,38 @@
     {
       "Name": "After\\wwwroot",
       "Source": "After",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-elvy3wvcj6.gz",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-2oy61monuf.gz",
       "SourceId": "After",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "After#[.{fingerprint=elvy3wvcj6}]?.styles.css.gz",
+      "RelativePath": "After#[.{fingerprint=2oy61monuf}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "78wxpfvzh5",
-      "Integrity": "Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=",
+      "Fingerprint": "vmdckdk4ul",
+      "Integrity": "B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fbl5ivwo6k",
       "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=95wwbzef0k}]?.html.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "cc6uwujb9l",
       "Integrity": "nMPguYfl/HgxD5Y4c8y2kbEQVX2ViQSMMFeW2/XpkIs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
       "AssetKind": "All",
@@ -91,83 +91,83 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "joqzyw7ssu",
       "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-elvy3wvcj6.gz",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-2oy61monuf.gz",
       "SourceId": "After",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "After#[.{fingerprint=elvy3wvcj6}]!.bundle.scp.css.gz",
+      "RelativePath": "After#[.{fingerprint=2oy61monuf}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "78wxpfvzh5",
-      "Integrity": "Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=",
+      "Fingerprint": "vmdckdk4ul",
+      "Integrity": "B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-b5wbdre606.gz",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-hv0k2og6hr.gz",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=b5wbdre606}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=hv0k2og6hr}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ohwpyhk6i6",
-      "Integrity": "RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k=",
+      "Fingerprint": "czxxql3c0z",
+      "Integrity": "SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-elvy3wvcj6.br",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-2oy61monuf.br",
       "SourceId": "After",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "After#[.{fingerprint=elvy3wvcj6}]?.styles.css.br",
+      "RelativePath": "After#[.{fingerprint=2oy61monuf}]?.styles.css.br",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "5zxj9gquy5",
-      "Integrity": "P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=",
+      "Fingerprint": "11rxjfc5xq",
+      "Integrity": "62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "b4a1wrn6r6",
       "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=95wwbzef0k}]?.html.br",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "5gfrxzxbx8",
       "Integrity": "C3xLHJq4ZGq9MQndADkGbHdJxk2k5lDcS9mX8X/nE1o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
       "AssetKind": "All",
@@ -217,62 +217,62 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "2o883p7o84",
       "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-elvy3wvcj6.br",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-2oy61monuf.br",
       "SourceId": "After",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "After#[.{fingerprint=elvy3wvcj6}]!.bundle.scp.css.br",
+      "RelativePath": "After#[.{fingerprint=2oy61monuf}]!.bundle.scp.css.br",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "5zxj9gquy5",
-      "Integrity": "P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=",
+      "Fingerprint": "11rxjfc5xq",
+      "Integrity": "62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-b5wbdre606.br",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-hv0k2og6hr.br",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=b5wbdre606}]?.css.br",
+      "RelativePath": "css/app#[.{fingerprint=hv0k2og6hr}]?.css.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css",
+      "RelatedAsset": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "20e72dnau0",
-      "Integrity": "osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4=",
+      "Fingerprint": "tnsmfjmaft",
+      "Integrity": "mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
       "SourceId": "After",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "After#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -283,17 +283,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "elvy3wvcj6",
-      "Integrity": "jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=",
+      "Fingerprint": "2oy61monuf",
+      "Integrity": "Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
       "SourceId": "After",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "After#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -304,17 +304,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "elvy3wvcj6",
-      "Integrity": "jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=",
+      "Fingerprint": "2oy61monuf",
+      "Integrity": "Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -325,17 +325,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b5wbdre606",
-      "Integrity": "f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=",
+      "Fingerprint": "hv0k2og6hr",
+      "Integrity": "k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -395,10 +395,94 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Add.png",
       "SourceId": "After",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Resources/Images/Add#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfky41h0z2",
+      "Integrity": "9tNEPVFfw10sYqblobW4Woyx3Km8qPQcZ711HNJHCd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\Add.png"
+    },
+    {
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Home.png",
+      "SourceId": "After",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Resources/Images/Home#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fiauq1g1re",
+      "Integrity": "t87MLrUEFKlV5U9ACRJaS6CS87z/dvd/jcJIo/qKVTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\Home.png"
+    },
+    {
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Logo.png",
+      "SourceId": "After",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Resources/Images/Logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eatz3p2706",
+      "Integrity": "+rnVJDMPNwX77Kj5M7uaUo8yWXW0ocgc6kJRuYFxBlw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\Logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\logoabout.png",
+      "SourceId": "After",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Resources/Images/logoabout#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fr6vwl1ka2",
+      "Integrity": "BSgoVEYmchuKt+hq7KQk7Mfngq3whex6IpUKtc7lp1w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\logoabout.png"
+    },
+    {
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
+      "SourceId": "After",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "Resources/Images/post1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -414,17 +498,38 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Resources\\Images\\post1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\userIcon.png",
+      "SourceId": "After",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Resources/Images/userIcon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5riz1c3y5x",
+      "Integrity": "sUrtIBYrZMURCvSCat0Yf9iUNZyBDiMlcGRqlG3DZoQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\userIcon.png"
     }
   ],
   "Endpoints": [
     {
-      "Route": "After.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-elvy3wvcj6.gz",
+      "Route": "After.2oy61monuf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-2oy61monuf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000614250614"
+          "Quality": "0.000343053173"
         }
       ],
       "ResponseHeaders": [
@@ -434,19 +539,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "2914"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -462,24 +567,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "2oy61monuf"
+        },
+        {
+          "Name": "label",
+          "Value": "After.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-elvy3wvcj6.br",
+      "Route": "After.2oy61monuf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-2oy61monuf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000741839763"
+          "Quality": "0.000405186386"
         }
       ],
       "ResponseHeaders": [
@@ -489,197 +602,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1347"
+          "Value": "2467"
         },
         {
           "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
-        }
-      ]
-    },
-    {
-      "Route": "After.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5481"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
-        }
-      ]
-    },
-    {
-      "Route": "After.bundle.scp.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-elvy3wvcj6.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1347"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4="
-        }
-      ]
-    },
-    {
-      "Route": "After.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-elvy3wvcj6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1627"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M="
-        }
-      ]
-    },
-    {
-      "Route": "After.elvy3wvcj6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-elvy3wvcj6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000614250614"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1627"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -687,7 +618,7 @@
         },
         {
           "Name": "Content-Encoding",
-          "Value": "gzip"
+          "Value": "br"
         },
         {
           "Name": "Vary",
@@ -699,13 +630,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -713,76 +644,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-elvy3wvcj6.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000741839763"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1347"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
-        },
-        {
-          "Name": "label",
-          "Value": "After.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
-        }
-      ]
-    },
-    {
-      "Route": "After.elvy3wvcj6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
+      "Route": "After.2oy61monuf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -791,7 +659,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5481"
+          "Value": "16560"
         },
         {
           "Name": "Content-Type",
@@ -799,11 +667,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -813,7 +681,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -821,13 +689,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.bundle.scp.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-elvy3wvcj6.br",
+      "Route": "After.2oy61monuf.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-2oy61monuf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -836,7 +704,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1347"
+          "Value": "2467"
         },
         {
           "Name": "Content-Type",
@@ -844,11 +712,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -866,7 +734,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -874,13 +742,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4="
+          "Value": "sha256-62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-elvy3wvcj6.gz",
+      "Route": "After.2oy61monuf.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-2oy61monuf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -889,7 +757,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "2914"
         },
         {
           "Name": "Content-Type",
@@ -897,11 +765,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -919,7 +787,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -927,18 +795,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M="
+          "Value": "sha256-B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.styles.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-elvy3wvcj6.gz",
+      "Route": "After.2oy61monuf.styles.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-2oy61monuf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000614250614"
+          "Quality": "0.000343053173"
         }
       ],
       "ResponseHeaders": [
@@ -948,15 +816,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "2914"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -976,13 +844,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -990,18 +858,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.styles.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-elvy3wvcj6.br",
+      "Route": "After.2oy61monuf.styles.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-2oy61monuf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000741839763"
+          "Quality": "0.000405186386"
         }
       ],
       "ResponseHeaders": [
@@ -1011,15 +879,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1347"
+          "Value": "2467"
         },
         {
           "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1039,13 +907,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -1053,13 +921,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.styles.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "Route": "After.2oy61monuf.styles.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1068,7 +936,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5481"
+          "Value": "16560"
         },
         {
           "Name": "Content-Type",
@@ -1076,11 +944,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1090,7 +958,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -1098,13 +966,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.styles.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-elvy3wvcj6.br",
+      "Route": "After.2oy61monuf.styles.css.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-2oy61monuf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1113,7 +981,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1347"
+          "Value": "2467"
         },
         {
           "Name": "Content-Type",
@@ -1121,11 +989,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1143,7 +1011,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -1151,13 +1019,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4="
+          "Value": "sha256-62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY="
         }
       ]
     },
     {
-      "Route": "After.elvy3wvcj6.styles.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-elvy3wvcj6.gz",
+      "Route": "After.2oy61monuf.styles.css.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-2oy61monuf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1166,7 +1034,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "2914"
         },
         {
           "Name": "Content-Type",
@@ -1174,11 +1042,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1196,7 +1064,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elvy3wvcj6"
+          "Value": "2oy61monuf"
         },
         {
           "Name": "label",
@@ -1204,18 +1072,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M="
+          "Value": "sha256-B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw="
         }
       ]
     },
     {
-      "Route": "After.styles.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-elvy3wvcj6.gz",
+      "Route": "After.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-2oy61monuf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000614250614"
+          "Quality": "0.000343053173"
         }
       ],
       "ResponseHeaders": [
@@ -1225,15 +1093,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "2914"
         },
         {
           "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1253,24 +1121,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.styles.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-elvy3wvcj6.br",
+      "Route": "After.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-2oy61monuf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000741839763"
+          "Quality": "0.000405186386"
         }
       ],
       "ResponseHeaders": [
@@ -1280,15 +1148,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1347"
+          "Value": "2467"
         },
         {
           "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1308,19 +1176,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
-      "Route": "After.styles.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "Route": "After.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\After.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1329,7 +1197,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5481"
+          "Value": "16560"
         },
         {
           "Name": "Content-Type",
@@ -1337,11 +1205,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk=\""
+          "Value": "\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1351,13 +1219,250 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jth8S/RZWg643fchzvu8kyUqCiaaW8sCnELwWIB2Jbk="
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
+        }
+      ]
+    },
+    {
+      "Route": "After.bundle.scp.css.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\hvm3o92b89-2oy61monuf.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY="
+        }
+      ]
+    },
+    {
+      "Route": "After.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\hvm3o92b89-2oy61monuf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw="
+        }
+      ]
+    },
+    {
+      "Route": "After.styles.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-2oy61monuf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000343053173"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2914"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
+        }
+      ]
+    },
+    {
+      "Route": "After.styles.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-2oy61monuf.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000405186386"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2467"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
+        }
+      ]
+    },
+    {
+      "Route": "After.styles.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\After.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Au5DWVaV7j1c1TZKZkYUut64scLm/K9CGHsM7pupDV0="
         }
       ]
     },
     {
       "Route": "After.styles.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-elvy3wvcj6.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\2fcun27y4r-2oy61monuf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1366,7 +1471,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1347"
+          "Value": "2467"
         },
         {
           "Name": "Content-Type",
@@ -1374,11 +1479,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4=\""
+          "Value": "\"62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1396,13 +1501,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P8RnBjEg2OietYDlpRP+zM2FjNO/KRliS1+Il7jLUt4="
+          "Value": "sha256-62n89Mi6w1j9o4JnnY2pEfJewgBy0G5Ps/6tOWPDhWY="
         }
       ]
     },
     {
       "Route": "After.styles.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-elvy3wvcj6.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\2fcun27y4r-2oy61monuf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1411,7 +1516,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "2914"
         },
         {
           "Name": "Content-Type",
@@ -1419,11 +1524,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M=\""
+          "Value": "\"B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:58 GMT"
+          "Value": "Sun, 12 Jan 2025 16:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1441,18 +1546,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Zyajt/1ZNrNnwcMLtIjRL+TBOtGaoL9BykQ7MNdVI7M="
+          "Value": "sha256-B/irXGQCzrVEhR/31BvntJKmLRPJuFZUfC0JUczULiw="
         }
       ]
     },
     {
-      "Route": "css/app.b5wbdre606.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-b5wbdre606.gz",
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-hv0k2og6hr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000423728814"
+          "Quality": "0.016949152542"
         }
       ],
       "ResponseHeaders": [
@@ -1462,15 +1567,252 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2359"
+          "Value": "58"
         },
         {
           "Name": "ETag",
-          "Value": "\"RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k=\""
+          "Value": "\"SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-hv0k2og6hr.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.021739130435"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-hv0k2og6hr.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-hv0k2og6hr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.hv0k2og6hr.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-hv0k2og6hr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016949152542"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1490,13 +1832,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=\""
+          "Value": "W/\"k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b5wbdre606"
+          "Value": "hv0k2og6hr"
         },
         {
           "Name": "label",
@@ -1504,18 +1846,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM="
+          "Value": "sha256-k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk="
         }
       ]
     },
     {
-      "Route": "css/app.b5wbdre606.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-b5wbdre606.br",
+      "Route": "css/app.hv0k2og6hr.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-hv0k2og6hr.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000494071146"
+          "Quality": "0.021739130435"
         }
       ],
       "ResponseHeaders": [
@@ -1525,15 +1867,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2023"
+          "Value": "45"
         },
         {
           "Name": "ETag",
-          "Value": "\"osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4=\""
+          "Value": "\"mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1553,13 +1895,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=\""
+          "Value": "W/\"k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b5wbdre606"
+          "Value": "hv0k2og6hr"
         },
         {
           "Name": "label",
@@ -1567,13 +1909,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM="
+          "Value": "sha256-k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk="
         }
       ]
     },
     {
-      "Route": "css/app.b5wbdre606.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css",
+      "Route": "css/app.hv0k2og6hr.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1582,7 +1924,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5345"
+          "Value": "41"
         },
         {
           "Name": "Content-Type",
@@ -1590,11 +1932,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=\""
+          "Value": "\"k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1604,7 +1946,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b5wbdre606"
+          "Value": "hv0k2og6hr"
         },
         {
           "Name": "label",
@@ -1612,13 +1954,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM="
+          "Value": "sha256-k5wrZsjffSyitNV5oDTbEX3L6dqojXtgmff23Uq9pWk="
         }
       ]
     },
     {
-      "Route": "css/app.b5wbdre606.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-b5wbdre606.br",
+      "Route": "css/app.hv0k2og6hr.css.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-hv0k2og6hr.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1627,7 +1969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2023"
+          "Value": "45"
         },
         {
           "Name": "Content-Type",
@@ -1635,11 +1977,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4=\""
+          "Value": "\"mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1657,7 +1999,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b5wbdre606"
+          "Value": "hv0k2og6hr"
         },
         {
           "Name": "label",
@@ -1665,13 +2007,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4="
+          "Value": "sha256-mbV3ltjzidwvabAqJBtBjiAj0mvxyoMC+3jqQcqrMJg="
         }
       ]
     },
     {
-      "Route": "css/app.b5wbdre606.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-b5wbdre606.gz",
+      "Route": "css/app.hv0k2og6hr.css.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-hv0k2og6hr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1680,7 +2022,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2359"
+          "Value": "58"
         },
         {
           "Name": "Content-Type",
@@ -1688,11 +2030,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k=\""
+          "Value": "\"SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:56:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1710,7 +2052,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b5wbdre606"
+          "Value": "hv0k2og6hr"
         },
         {
           "Name": "label",
@@ -1718,250 +2060,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-b5wbdre606.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000423728814"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2359"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-b5wbdre606.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000494071146"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2023"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5345"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-f1A19d46RLpVUl3oltb1QiiHB/2OYIesi1tTfrqd0aM="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\jsqfx0h85q-b5wbdre606.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2023"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-osjpqFZUcENXDp7NJfB3Htm+P7d02T6av9zGTVQ3TK4="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\jsqfx0h85q-b5wbdre606.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2359"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RIm0jLxTG4SNE/348lIXkt8ZY6ahRDbGWQsrC1O498k="
+          "Value": "sha256-SChW1j5N2LInDcHVstIt6vbuSA12Dnuiv0iVLJO+rQ8="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1984,7 +2089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2024,7 +2129,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2047,7 +2152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2087,7 +2192,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2108,7 +2213,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2132,7 +2237,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2153,7 +2258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2185,7 +2290,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2206,7 +2311,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2238,7 +2343,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2261,7 +2366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2293,7 +2398,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2316,7 +2421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2348,7 +2453,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2369,7 +2474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2385,7 +2490,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2408,7 +2513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2448,7 +2553,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2471,7 +2576,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2511,7 +2616,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2532,7 +2637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2556,7 +2661,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2577,7 +2682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2609,7 +2714,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2630,7 +2735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2662,7 +2767,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\emye2mjvx5-6gzpyzhau4.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2683,7 +2788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2707,7 +2812,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\emye2mjvx5-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2728,7 +2833,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2752,7 +2857,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2775,7 +2880,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2807,7 +2912,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2830,7 +2935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2862,7 +2967,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2883,7 +2988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2899,7 +3004,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\6f8zua3aoy-8inm30yfxf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2920,7 +3025,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2944,7 +3049,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\6f8zua3aoy-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2965,7 +3070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2989,7 +3094,7 @@
     },
     {
       "Route": "index.95wwbzef0k.html",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3012,7 +3117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3052,7 +3157,7 @@
     },
     {
       "Route": "index.95wwbzef0k.html",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3075,7 +3180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3115,7 +3220,7 @@
     },
     {
       "Route": "index.95wwbzef0k.html",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3136,7 +3241,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3160,7 +3265,7 @@
     },
     {
       "Route": "index.95wwbzef0k.html.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3181,7 +3286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3213,7 +3318,7 @@
     },
     {
       "Route": "index.95wwbzef0k.html.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3234,7 +3339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3266,7 +3371,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3289,7 +3394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3321,7 +3426,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3344,7 +3449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3376,7 +3481,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3397,7 +3502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3413,7 +3518,7 @@
     },
     {
       "Route": "index.html.br",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\publish\\7phf0jrclz-95wwbzef0k.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3434,7 +3539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3458,7 +3563,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\obj\\Debug\\net9.0-android\\compressed\\7phf0jrclz-95wwbzef0k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3479,7 +3584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 14:44:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3502,8 +3607,336 @@
       ]
     },
     {
+      "Route": "Resources/Images/Add.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Add.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tNEPVFfw10sYqblobW4Woyx3Km8qPQcZ711HNJHCd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 13:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tNEPVFfw10sYqblobW4Woyx3Km8qPQcZ711HNJHCd4="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/Add.qfky41h0z2.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Add.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tNEPVFfw10sYqblobW4Woyx3Km8qPQcZ711HNJHCd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 13:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfky41h0z2"
+        },
+        {
+          "Name": "label",
+          "Value": "Resources/Images/Add.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tNEPVFfw10sYqblobW4Woyx3Km8qPQcZ711HNJHCd4="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/Home.fiauq1g1re.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t87MLrUEFKlV5U9ACRJaS6CS87z/dvd/jcJIo/qKVTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 13:10:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fiauq1g1re"
+        },
+        {
+          "Name": "label",
+          "Value": "Resources/Images/Home.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t87MLrUEFKlV5U9ACRJaS6CS87z/dvd/jcJIo/qKVTc="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/Home.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Home.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t87MLrUEFKlV5U9ACRJaS6CS87z/dvd/jcJIo/qKVTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 13:10:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t87MLrUEFKlV5U9ACRJaS6CS87z/dvd/jcJIo/qKVTc="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/Logo.eatz3p2706.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rnVJDMPNwX77Kj5M7uaUo8yWXW0ocgc6kJRuYFxBlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 15:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eatz3p2706"
+        },
+        {
+          "Name": "label",
+          "Value": "Resources/Images/Logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rnVJDMPNwX77Kj5M7uaUo8yWXW0ocgc6kJRuYFxBlw="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/Logo.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\Logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rnVJDMPNwX77Kj5M7uaUo8yWXW0ocgc6kJRuYFxBlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 15:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rnVJDMPNwX77Kj5M7uaUo8yWXW0ocgc6kJRuYFxBlw="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/logoabout.fr6vwl1ka2.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\logoabout.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BSgoVEYmchuKt+hq7KQk7Mfngq3whex6IpUKtc7lp1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fr6vwl1ka2"
+        },
+        {
+          "Name": "label",
+          "Value": "Resources/Images/logoabout.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BSgoVEYmchuKt+hq7KQk7Mfngq3whex6IpUKtc7lp1w="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/logoabout.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\logoabout.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BSgoVEYmchuKt+hq7KQk7Mfngq3whex6IpUKtc7lp1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 16:14:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BSgoVEYmchuKt+hq7KQk7Mfngq3whex6IpUKtc7lp1w="
+        }
+      ]
+    },
+    {
       "Route": "Resources/Images/post1.6xqg7dshxa.jpg",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3524,7 +3957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3548,7 +3981,7 @@
     },
     {
       "Route": "Resources/Images/post1.jpg",
-      "AssetFile": "C:\\Users\\ro_wi\\source\\repos\\RO0OGER\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\post1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3569,7 +4002,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 10 Jan 2025 22:45:59 GMT"
+          "Value": "Sat, 11 Jan 2025 11:51:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3580,6 +4013,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Sqf6XI+AOsxvmRY30YV7RL3Q/X6e6XsUHG+mm2aGP8A="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/userIcon.5riz1c3y5x.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\userIcon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUrtIBYrZMURCvSCat0Yf9iUNZyBDiMlcGRqlG3DZoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 15:43:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5riz1c3y5x"
+        },
+        {
+          "Name": "label",
+          "Value": "Resources/Images/userIcon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUrtIBYrZMURCvSCat0Yf9iUNZyBDiMlcGRqlG3DZoQ="
+        }
+      ]
+    },
+    {
+      "Route": "Resources/Images/userIcon.png",
+      "AssetFile": "C:\\Users\\ro_wi\\sharpProjects\\AfterBlazor\\After\\wwwroot\\Resources\\Images\\userIcon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUrtIBYrZMURCvSCat0Yf9iUNZyBDiMlcGRqlG3DZoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 15:43:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUrtIBYrZMURCvSCat0Yf9iUNZyBDiMlcGRqlG3DZoQ="
         }
       ]
     }

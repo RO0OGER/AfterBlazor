@@ -1,0 +1,38 @@
+.legal-page[b-gm8n3mzdt3] {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    animation: fadeIn-b-gm8n3mzdt3 0.5s ease-in forwards;
+}
+
+h2[b-gm8n3mzdt3] {
+    color: #333;
+    font-size: 24px;
+}
+
+.impressum[b-gm8n3mzdt3], .datenschutz[b-gm8n3mzdt3] {
+    margin-bottom: 20px;
+}
+
+    .datenschutz h3[b-gm8n3mzdt3] {
+        margin-top: 10px;
+        font-size: 18px;
+        color: #555;
+    }
+
+    .datenschutz p[b-gm8n3mzdt3] {
+        line-height: 1.5;
+    }
+
+
+
+
+@keyframes fadeIn-b-gm8n3mzdt3 {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+    

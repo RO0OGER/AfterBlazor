@@ -1,0 +1,51 @@
+﻿@page "/help"
+
+<div class="help-page">
+    <h1 class="help-title">Hilfe & FAQ</h1>
+
+    <section class="faq-section">
+        <h2 class="faq-title">Häufig gestellte Fragen</h2>
+        <ul class="faq-list">
+            <li class="faq-item">
+                <h3 class="faq-subtitle">Wie erreiche ich den Support?</h3>
+                <p class="faq-text">Unser Support-Team steht Ihnen unter <a href="mailto:support@example.com" class="faq-link">support@after.ch</a> zur Verfügung.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section class="contact-section">
+        <h2 class="contact-title">Haben Sie weitere Fragen?</h2>
+        <form class="contact-form" @onsubmit="HandleSubmit">
+            <label for="name" class="contact-label">Name:</label>
+            <input type="text" id="name" @bind="Name" class="contact-input" required />
+            <span class="error-message">@NameError</span>
+
+            <label for="email" class="contact-label">E-Mail:</label>
+            <input type="email" id="email" @bind="Email" class="contact-input" required />
+            <span class="error-message">@EmailError</span>
+
+            <label for="message" class="contact-label">Nachricht:</label>
+            <textarea id="message" @bind="Message" class="contact-textarea" required></textarea>
+            <span class="error-message">@MessageError</span>
+
+            <button type="submit" class="contact-button">Absenden</button>
+        </form>
+    </section>
+</div>
+
+@code {
+    private string Name { get; set; } = string.Empty;
+    private string Email { get; set; } = string.Empty;
+    private string Message { get; set; } = string.Empty;
+
+    private string NameError { get; set; } = string.Empty;
+    private string EmailError { get; set; } = string.Empty;
+    private string MessageError { get; set; } = string.Empty;
+
+    private void HandleSubmit()
+    {
+        NameError = string.IsNullOrWhiteSpace(Name) ? "Bitte geben Sie Ihren Namen ein." : string.Empty;
+        EmailError = string.IsNullOrWhiteSpace(Email) || !Email.Contains("@") ? "Bitte geben Sie eine gültige E-Mail-Adresse ein." : string.Empty;
+        MessageError = string.IsNullOrWhiteSpace(Message) ? "Bitte geben Sie eine Nachricht ein." : string.Empty;
+    }
+}

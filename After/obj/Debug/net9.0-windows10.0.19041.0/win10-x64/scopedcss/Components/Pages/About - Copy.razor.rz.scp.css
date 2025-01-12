@@ -1,0 +1,33 @@
+.help-page[b-pom7g4katw] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: fadeIn-b-pom7g4katw 0.5s ease-in forwards;
+}
+
+.logo-about[b-pom7g4katw] {
+    width: 80vw;
+    max-width: 500px;
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.text-field[b-pom7g4katw] {
+    margin-top: 10px; 
+    border-top:0.1px solid black;
+    padding-top: 10px;
+    margin-bottom: 100px;
+}
+
+@keyframes fadeIn-b-pom7g4katw {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

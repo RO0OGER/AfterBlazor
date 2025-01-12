@@ -3,9 +3,9 @@
 @inject NavigationManager NavigationManager
 @using Newtonsoft.Json
 
-<h1>Create New Post</h1>
+<h1>Post Creator</h1>
 
-<div>
+<div class="creator">
     <label>Title:</label>
     <input type="text" @bind="post.Title" placeholder="Enter title" />
 
@@ -31,7 +31,7 @@
     {
         try
         {
-            // Validate input
+           
             if (string.IsNullOrWhiteSpace(post.Title) || string.IsNullOrWhiteSpace(post.Text))
             {
                 message = "Title and text are required.";
@@ -40,18 +40,18 @@
 
 
 
-            // Serialize the post object using Newtonsoft.Json
+      
             string jsonPayload = JsonConvert.SerializeObject(post, Formatting.Indented);
 
             Console.WriteLine($"JSON Payload being sent: {jsonPayload}");
 
-            // Insert the post into Supabase
+       
             var response = await SupabaseClient.From<Post>().Insert(post);
 
             if (response.Models?.Any() == true)
             {
                 message = "Post created successfully!";
-                NavigationManager.NavigateTo("/");  // Redirect to home page or another page after success
+                NavigationManager.NavigateTo("/");  
             }
             else
             {
@@ -60,7 +60,7 @@
         }
         catch (Exception ex)
         {
-            message = $"Error: {ex.Message} - {ex.StackTrace}";  // Detailed error information for debugging
+            message = $"Error: {ex.Message} - {ex.StackTrace}"; 
         }
     }
 }

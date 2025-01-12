@@ -1,0 +1,32 @@
+.bottom-object {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    width: calc(100% - 40px);
+    max-width: 300px;
+    min-width: 150px;
+    border: 0.5px solid #707070;
+}
+
+    .bottom-object img {
+        width: 30px;
+        max-width: 30px;
+        height: auto;
+        flex-shrink: 0;
+        cursor: pointer;
+        filter: opacity(0.6);
+        transition: filter 0.3s ease;
+    }
+
+        .bottom-object img:hover {
+            filter: opacity(1);
+        }
